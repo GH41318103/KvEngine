@@ -151,6 +151,13 @@ int main() {
 
 ### 日誌存儲示例
 
+## Demo 影片
+
+以下為 demo：
+
+https://youtu.be/JyMtpasRxZY
+
+
 ```cpp
 #include <kvengine/log_engine.h>
 #include <chrono>
@@ -1357,3 +1364,4 @@ KvEngine 致力於提供:
 ---
 
 **Made with  by KvEngine Team**
+
