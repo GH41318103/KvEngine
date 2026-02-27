@@ -1,0 +1,17 @@
+選取GCC 13.2.0 X86_64-w64-mingw32 的組建設定 (Toolchain file) (100% 完成編譯)
+
+CMake
+ |--專案狀態
+      |--資料夾
+      |    |--KvEngive
+      |--設定
+      |    |--GCC 13.2.0 X86_64-w64-mingw32
+      |    |--Debug
+      |--組建
+      |    |--all
+      |--測試 
+      |    |--run all tests
+      |--偵錯
+      |    |--[Debug]
+      |--啟動
+           |--[Debug.exe]
