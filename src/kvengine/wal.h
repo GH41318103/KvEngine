@@ -69,6 +69,7 @@ public:
     
     /**
      * @brief 初始化 WAL
+     * @param reset 是否重置日誌（刪除舊日誌並從 0 開始）
      * @return 成功返回 true
      */
     bool initialize();
